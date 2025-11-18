@@ -2,6 +2,8 @@
 
 - This repository provides the official implementation of the paper "Simulating Sinogram-Domain Motion and Correcting Image-Domain Artifacts in HR-pQCT Bone Imaging". It includes a motion simulation tool to generate motion artifacts from ground-truth images. The repository also contains the training and testing code for the motion artifact correction framework ESWGAN-GP in HR-pQCT scans.
 
+- URL: https://ieeexplore.ieee.org/document/11192748
+
 ## Repository Structure
 
 - **`Motion Simulation/`**  
