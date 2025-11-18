@@ -40,7 +40,7 @@ doi: 10.1109/TRPMS.2025.3617225. keywords: {Motion artifacts;Bones;Imaging;Image
 Training;Bone;HR-pQCT;Motion;Sinogram;ESWGAN-GP;SNR;SSIM;VIF;Deep Learning}
 
 
-BibTex:
+## BibTex
 @ARTICLE{11192748,
   author={Sadik, Farhan and Newman, Christopher L. and Warden, Stuart J. and Surowiec, Rachel K.},
   journal={IEEE Transactions on Radiation and Plasma Medical Sciences}, 
@@ -52,5 +52,8 @@ BibTex:
   keywords={Motion artifacts;Bones;Imaging;Image reconstruction;Computed tomography;Translation;Generative adversarial networks;Signal to noise ratio;Mathematical models;Training;Bone;HR-pQCT;Motion;Sinogram;ESWGAN-GP;SNR;SSIM;VIF;Deep Learning},
   doi={10.1109/TRPMS.2025.3617225}}
 
+## Contact:
+
+Farhan Sadik, fsadik@purdue.edu
 
 
