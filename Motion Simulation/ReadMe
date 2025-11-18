@@ -1,0 +1,16 @@
+% =========================================================================
+% The main.m script simulates synthetic motion in HR-pQCT scans.
+%
+% Usage Instructions:
+% 1. Extract the HR-pQCT DICOM/ISQ files.
+% 2. Move the motion-free images you want to use as ground truth (Ys)
+%    into the `samples/input` directory (or the desired input folder).
+% 3. In the main.m file, set `input_directory` to the folder containing the ground-truth images.
+% 4. In the main.m file set `output_directory` to the folder where the motion-corrupted images
+%    (Xs) will be saved.
+% 5. Run "main.m"
+% 
+% The script processes the source ground-truth images and generates
+% corresponding motion-degraded images, which are saved automatically in
+% the specified output directory.
+% =========================================================================
