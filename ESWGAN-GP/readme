@@ -1,0 +1,11 @@
+This is the official implementation of ESWGAN-GP, ESWGAN-GPv1, and ESWGAN-GPv2
+
+#Step 1: Ordering the files in the directory
+
+Archive ---------> Ground truth images all in one folder (sorted) [For example: Dist Rad Train img/img0.png]
+        ---------> Motion corrupted images all in one folder (sorted) [For example: Dist Rad Train img sim/img0.png]
+
+saved_models -------> Store the weights of the pre-trained models/storing training weights on the fly
+
+
+results ----------> Storing predicted images from test.py
