@@ -1,0 +1,5 @@
+## Put your dataset here 
+
+Example: 
+Distal Radius img/ (ground truth)
+Distal Radius img sim/ (motion corrupted)
