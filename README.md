@@ -23,15 +23,13 @@ This repository provides the official implementation of the paper "Simulating Si
 ![Ablation](Images/Figure_results.jpg)
 
 
-> Replace the image paths with your uploaded files in the repository.
-
 ## Usage
 
 1. **Motion Simulation**  
-   Run scripts in `motion_simulation/` to generate motion-corrupted images.
+   Run scripts in `Motion Simulation/` to generate motion-corrupted images.
 
 2. **Motion Correction**  
-   Train or use pre-trained models in `correction/` to correct artifacts in HR-pQCT images.
+   Train or use pre-trained models in `ESWGAN-GP/` to correct artifacts in HR-pQCT images.
 
 ## Citation
 
