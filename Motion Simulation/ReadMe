@@ -1,5 +1,5 @@
 % =========================================================================
-% The main.m script simulates synthetic motion in HR-pQCT scans.
+% The UDA_Recon.m script simulates synthetic motion in HR-pQCT scans.
 %
 % Usage Instructions:
 % 1. Extract the HR-pQCT DICOM/ISQ files.
