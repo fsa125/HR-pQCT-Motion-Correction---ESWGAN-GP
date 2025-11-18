@@ -1,13 +1,13 @@
 # Simulating Sinogram-Domain Motion and Correcting Image-Domain Artifacts in HR-pQCT Bone Imaging
 
-This repository contains the **official implementation** of our deep learning pipeline for simulating motion in sinogram space and correcting image-domain artifacts in HR-pQCT scans.
+This repository provides the official implementation of the paper "Simulating Sinogram-Domain Motion and Correcting Image-Domain Artifacts in HR-pQCT Bone Imaging". It includes a motion simulation tool to generate motion artifacts from ground-truth images. The repository also contains the training and testing code for the motion artifact correction framework ESWGAN-GP in HR-pQCT scans.
 
 ## Repository Structure
 
-- **`motion_simulation/`**  
+- **`Motion Simulation/`**  
   Scripts and utilities for simulating realistic motion in HR-pQCT images, including sinogram-domain manipulations.
 
-- **`correction/`**  
+- **`ESWGAN-GP/`**  
   Deep learning-based motion artifact correction in the image domain. Includes model definitions, training scripts, and evaluation utilities.
 
 ## Features
@@ -16,8 +16,9 @@ This repository contains the **official implementation** of our deep learning pi
 - Train neural networks to compensate for motion artifacts.  
 - Evaluate performance using quantitative metrics and visualizations.
 
-## Example Results
+## Edge-enhanced Self-attention Wasserstein Generative Adversarial Network with Gradient-Penalty
 
+![Network Architecture](path/to/simulated_motion.png)
 ### Simulated Motion
 ![Simulated Motion](path/to/simulated_motion.png)
 
