@@ -1,6 +1,6 @@
 # Simulating Sinogram-Domain Motion and Correcting Image-Domain Artifacts in HR-pQCT Bone Imaging
 
-This repository provides the official implementation of the paper "Simulating Sinogram-Domain Motion and Correcting Image-Domain Artifacts in HR-pQCT Bone Imaging". It includes a motion simulation tool to generate motion artifacts from ground-truth images. The repository also contains the training and testing code for the motion artifact correction framework ESWGAN-GP in HR-pQCT scans.
+- This repository provides the official implementation of the paper "Simulating Sinogram-Domain Motion and Correcting Image-Domain Artifacts in HR-pQCT Bone Imaging". It includes a motion simulation tool to generate motion artifacts from ground-truth images. The repository also contains the training and testing code for the motion artifact correction framework ESWGAN-GP in HR-pQCT scans.
 
 ## Repository Structure
 
@@ -35,13 +35,13 @@ This repository provides the official implementation of the paper "Simulating Si
 
 If you use this code, please cite:
 
-F. Sadik, C. L. Newman, S. J. Warden and R. K. Surowiec, "Simulating Sinogram-Domain Motion and Correcting Image-Domain Artifacts Using Deep Learning in HR-pQCT Bone Imaging," in IEEE Transactions on Radiation and Plasma Medical Sciences,
+- F. Sadik, C. L. Newman, S. J. Warden and R. K. Surowiec, "Simulating Sinogram-Domain Motion and Correcting Image-Domain Artifacts Using Deep Learning in HR-pQCT Bone Imaging," in IEEE Transactions on Radiation and Plasma Medical Sciences,
 doi: 10.1109/TRPMS.2025.3617225. keywords: {Motion artifacts;Bones;Imaging;Image reconstruction;Computed tomography;Translation;Generative adversarial networks;Signal to noise ratio;Mathematical models;
 Training;Bone;HR-pQCT;Motion;Sinogram;ESWGAN-GP;SNR;SSIM;VIF;Deep Learning}
 
 
 ## BibTex
-@ARTICLE{11192748,
+- @ARTICLE{11192748,
   author={Sadik, Farhan and Newman, Christopher L. and Warden, Stuart J. and Surowiec, Rachel K.},
   journal={IEEE Transactions on Radiation and Plasma Medical Sciences}, 
   title={Simulating Sinogram-Domain Motion and Correcting Image-Domain Artifacts Using Deep Learning in HR-pQCT Bone Imaging}, 
@@ -54,6 +54,6 @@ Training;Bone;HR-pQCT;Motion;Sinogram;ESWGAN-GP;SNR;SSIM;VIF;Deep Learning}
 
 ## Contact
 
-Farhan Sadik, fsadik@purdue.edu
+- Farhan Sadik, fsadik@purdue.edu
 
 
