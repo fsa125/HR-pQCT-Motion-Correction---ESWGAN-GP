@@ -18,7 +18,7 @@ This repository provides the official implementation of the paper "Simulating Si
 
 ## Edge-enhanced Self-attention Wasserstein Generative Adversarial Network with Gradient-Penalty
 
-![Network Architecture](Images/Network2 (3).jpg)
+![Network Architecture](Images/Network2(3).jpg)
 ### Simulated Motion
 ![Simulated Motion](path/to/simulated_motion.png)
 
